@@ -11,7 +11,7 @@ namespace BasicAppTest
         {
             Class1 tp = new Class1();
             Assert.AreEqual(tp.Name, "[Jonathan Wyckoff] - The Code Master");
-            //hello
+            //hello again
         }
     }
 }
